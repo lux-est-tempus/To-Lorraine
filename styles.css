@@ -44,8 +44,8 @@ h1, h2, h3, h4, p {
     border: 6px solid white;
     border-radius: 10px;
     background-image: url("gift-cover.png");
-    background-size: center;
-    padding: auto;
+    background-size: cover;
+    padding: 10%;
 }
 
 #gift-img-short:hover {
